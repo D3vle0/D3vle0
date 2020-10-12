@@ -22,7 +22,7 @@ Excellence Award - KBSC 2018
 ```
 
 <p style="float:left">
-<img alt="spotify" width="370px" src="https://github-readme-stats.vercel.app/api?username=D3vle0"/>
+<img alt="spotify" width="400px" src="https://github-readme-stats.vercel.app/api?username=D3vle0"/>
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=85o05xl09h5de8ngv9im0txhx&cover_image=false"/>
 </p>
 
