@@ -1,25 +1,21 @@
 ### Hi there 👋
 <!--
 <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->
-
-<br>
 <samp>
  - First grade Web Programming Dept. student at KDMHS<br>
  - Studying programming & cybersecurity
 </samp>  
 
 ### Programming Languages  :rocket:
-| <img src="https://github.com/D3vle0/D3vle0/blob/main/img/c.png?raw=true" width=60> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/js.png?raw=true" width=60> | <img src="https://raw.githubusercontent.com/D3vle0/D3vle0/a9995e467dde97c42a93cba08893fd96493a03ab/img/python.svg" width=60> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/nodejs.png?raw=true" width=60> |   
+| <img src="https://github.com/D3vle0/D3vle0/blob/main/img/c.png?raw=true" width=30> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/js.png?raw=true" width=30> | <img src="https://raw.githubusercontent.com/D3vle0/D3vle0/a9995e467dde97c42a93cba08893fd96493a03ab/img/python.svg" width=30> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/nodejs.png?raw=true" width=30> |   
 |:---:|:---:|:---:|:---:|
 
 ### My Experiences :fire:
-```py
+```
 Excellence Award - KBSC 2018
 11th place (Bronze Award) - DIMI CTF 2019 Final
-Middle school part 7th place - 2019 Layer7 CTF
 3rd place - The Hacking Championship Junior 2019 Final
 5th place - TRUST & STEALTH Freshman CTF
-9th place - Layer7 & Trust Internal CTF
 6th place - Cyber Operation Competition 2020 Preliminary
 13th place - TeamH4C CTF 2020
 ...
