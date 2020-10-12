@@ -21,8 +21,8 @@ Excellence Award - KBSC 2018
 ...
 ```
 
-[![D3vle0's github stats](https://github-readme-stats.vercel.app/api?username=D3vle0)](https://github.com/anuraghazra/github-readme-stats)
 <p style="float:left">
+<img alt="spotify" width="350px" src="https://github-readme-stats.vercel.app/api?username=D3vle0"/>
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=85o05xl09h5de8ngv9im0txhx&cover_image=false"/>
 </p>
 
