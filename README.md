@@ -1,11 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FD3vle0&count_bg=%233F82C9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
 <!--
-<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->
-<samp>
+<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->  
+
  - First grade Web Programming Dept. student at KDMHS<br>
  - Studying programming & cybersecurity
-</samp>  
 
 ### Programming Languages  :rocket:
 | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/c.png?raw=true" width=30> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/js.png?raw=true" width=30> | <img src="https://raw.githubusercontent.com/D3vle0/D3vle0/a9995e467dde97c42a93cba08893fd96493a03ab/img/python.svg" width=30> | <img src="https://github.com/D3vle0/D3vle0/blob/main/img/nodejs.png?raw=true" width=30> |   
