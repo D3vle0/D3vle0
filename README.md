@@ -23,7 +23,7 @@
 ```
 
 <p style="float:left">
-<img alt="spotify" width="400px" src="https://github-readme-stats.vercel.app/api?username=D3vle0"/>&nbsp;&nbsp;&nbsp;
+<img alt="spotify" width="400px" src="https://github-readme-stats.vercel.app/api?username=d3vle0&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=85o05xl09h5de8ngv9im0txhx&cover_image=false"/>
 </p>
 
