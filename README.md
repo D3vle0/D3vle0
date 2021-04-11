@@ -3,7 +3,7 @@
 <!--
 <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->  
 
- - First grade Web Programming Dept. student at KDMHS<br>
+ - Second grade Web Programming Dept. student at KDMHS<br>
  - Studying programming & cybersecurity
 
 ### Programming Languages  :rocket:
